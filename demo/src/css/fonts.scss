@@ -1,0 +1,46 @@
+/*
+   * LL Circular
+   */
+   @font-face {
+    font-family: "AxLLCircular";
+    src: url(~assets/fonts/LLCircular/lineto-circular-medium.eot);
+    src: url(~assets/fonts/LLCircular/lineto-circular-medium.eot?#iefix) format("embedded-opentype"),
+         url(~assets/fonts/LLCircular/lineto-circular-medium.woff2) format("woff2"),
+         url(~assets/fonts/LLCircular/lineto-circular-medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AxLLCircular";
+    src: url(~assets/fonts/LLCircular/lineto-circular-bold.eot);
+    src: url(~assets/fonts/LLCircular/lineto-circular-bold.eot?#iefix) format("embedded-opentype"),
+         url(~assets/fonts/LLCircular/lineto-circular-bold.woff2) format("woff2"),
+         url(~assets/fonts/LLCircular/lineto-circular-bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  /*
+   * FF DIN
+   */
+  @font-face {
+    font-family: "AxFFDIN";
+    src:url(~assets/fonts/FFDIN/5426089/a397c752-ee83-47cf-b8a8-b476511dd2c9.eot?#iefix);
+    src:url(~assets/fonts/FFDIN/5426089/a397c752-ee83-47cf-b8a8-b476511dd2c9.eot?#iefix) format("eot"),url(~assets/fonts/FFDIN/5426089/53fb9c60-2054-4c31-9283-5562244b4935.woff2) format("woff2"),url(~assets/fonts/FFDIN/5426089/45831ca8-93bd-4808-aa5f-3c915944f727.woff) format("woff"),url(~assets/fonts/FFDIN/5426089/429a3e29-88da-4603-94ff-c1450c089c88.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AxFFDIN";
+    src:url(~assets/fonts/FFDIN/5426076/9f48a411-8295-4ad8-b97a-f4cc38cef43d.eot?#iefix);
+    src:url(~assets/fonts/FFDIN/5426076/9f48a411-8295-4ad8-b97a-f4cc38cef43d.eot?#iefix) format("eot"),url(~assets/fonts/FFDIN/5426076/79949f65-d692-489f-bd6b-b62647297229.woff2) format("woff2"),url(~assets/fonts/FFDIN/5426076/b9597dec-1d68-488e-87e0-d7824cf36028.woff) format("woff"),url(~assets/fonts/FFDIN/5426076/964c9b01-5d07-4ef1-8b71-3b173b54fbcc.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "AxFFDIN";
+    src:url(~assets/fonts/FFDIN/5426014/a94d5d16-cbe3-439e-b1a5-fbdfb180d789.eot?#iefix);
+    src:url(~assets/fonts/FFDIN/5426014/a94d5d16-cbe3-439e-b1a5-fbdfb180d789.eot?#iefix) format("eot"),url(~assets/fonts/FFDIN/5426014/8beea44e-c2c9-4889-9123-13d0e8b8d1bc.woff2) format("woff2"),url(~assets/fonts/FFDIN/5426014/871e70ec-2f76-44c5-a2f1-77ee8cd0a5fe.woff) format("woff"),url(~assets/fonts/FFDIN/5426014/8fa83ec7-0734-49e5-b5ad-b13a41463328.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+  }

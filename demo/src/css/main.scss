@@ -1,0 +1,25 @@
+@import './variables.scss';
+
+html,
+body {
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0;
+  scroll-behavior: smooth;
+  background: linear-gradient(110deg, #f7f7f9, #fafafa);
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6, nav, button {
+  font-family: $family-title;
+}
+
+#app {
+  background: gray;
+  min-height: 90vh;
+}
